@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Инструменты управления тестированием:
+### 🛠 **Инструменты управления тестированием:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  width="25"/> **Jira** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="25"/> **YouTrack** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TT81PgW1ZySMt7nkINdy-6MQagErgf6KOw&s" width="25"/> **Redmine** | <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="25"/> **Test IT** | <img src="https://luna1.co/eb0187.png" width="25"/> **Qase** |
 
