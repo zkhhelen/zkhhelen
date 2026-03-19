@@ -129,7 +129,7 @@ Software Testing from Scratch: Theory + Practice (Basic) — *with distinction*
   <a href="https://t.me/zkh_helen" target="_blank" style="text-decoration:none; display:flex; align-items:center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" style="margin-right:5px;" alt="Telegram">
     <span style="background-color:#000000; color:#ffffff; font-weight:bold; padding:5px 10px; border-radius:5px; font-family:sans-serif;">Telegram</span>
-  </a>
+  </a> &nbsp;
 
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/zkhhelen" target="_blank" style="text-decoration:none; display:flex; align-items:center;">
