@@ -12,7 +12,7 @@ My engineering background helps me:
 - ⚙️ analyze backend and API logic  
 - 🤝 collaborate effectively with developers  
 
-🎯 Focus: Web & API testing with a path toward Automation (Java + Python)  
+🎯 Focus: Web & API testing with a path toward Automation (Java)  
 
 📌 Portfolio includes real QA work: test cases, bug reports, API testing  
 
@@ -92,7 +92,7 @@ My engineering background helps me:
 Software Testing from Scratch: Theory + Practice (Basic) — *with distinction*
 
 [![Python Generation](https://img.shields.io/badge/Python%20Generation-Beginner-black?style=for-the-badge&logoColor=3776AB)](https://stepik.org/cert/1906322)  
-“Python Generation”: Beginner Course — *with distinction, 99% completed*
+“Python Generation”: Beginner Course — *with distinction*
 
 ---
 
