@@ -117,9 +117,3 @@ Software Testing from Scratch: Theory + Practice (Basic) — *with distinction*
   </a>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZkhHelen&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZkhHelen&theme=tokyonight)
