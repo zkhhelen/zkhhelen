@@ -22,9 +22,13 @@ My engineering background helps me:
 
 ## 🧪 QA Skills
 -Design test cases and checklists
+
 -Write clear and reproducible bug reports
+
 -Perform functional, smoke, regression, and exploratory testing
+
 -Test REST APIs using Postman
+
 -Analyze requirements and identify potential gaps and inconsistencies
 
 ---
