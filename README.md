@@ -48,7 +48,6 @@ My engineering background helps me:
 - CRUD operations  
 - Negative scenarios  
 - Environment variables & collections  
-- 🔗 https://elenazahozaa428-739381.postman.co/workspace/92a9e964-8806-47e7-aee4-7b716eb0a9bd
 
 ---
 
@@ -80,7 +79,7 @@ My engineering background helps me:
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=4EAA25)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira&logoColor=0052CC)
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?logoColor=FF6C37)
-![YouGile](https://shields.io)
+![YouGile]()
 
 ---
 
