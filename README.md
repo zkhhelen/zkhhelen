@@ -54,9 +54,8 @@ My engineering background helps me:
 ### 💻 Tech Stack & Tools
 
 #### 🚀 Languages
-![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00) - beginner level
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB) - beginner level
 ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql&logoColor=336791)
 
 #### 🌐 Web & API Testing
