@@ -6,31 +6,31 @@
 
 ## Alena | Software Engineer → QA Engineer 🔍
 
-QA Engineer transitioning from software development to QA Automation.  
+QA Engineer transitioning from software development to QA.  
 My engineering background helps me:  
 - 🔍 quickly identify root causes of bugs  
 - ⚙️ analyze backend and API logic  
 - 🤝 collaborate effectively with developers  
 
-🎯 Focus: Web & API testing with a path toward Automation (Java)  
+🎯 Focus: Web & API testing
+🚀 Next Milestone: Transitioning into test automation (Java)
 
-📌 Portfolio includes real QA work: test cases, bug reports, API testing  
+📌 Portfolio includes training QA work: test cases, bug reports, API testing  
 
-🔗 **[My Resume](ССЫЛКА)**
+🔗 **[My Resume](https://drive.google.com/drive/folders/16dJFISdG6MS8LE3gMbv8LBw8Lw38w4o7?usp=drive_link)**
 
 ---
 
 ## 🚀 About Me
-- QA Engineer (Manual → Automation)  
+- QA Engineer (Manual)  
 - Skilled in Java, Python, Web & API testing  
 - Strong analytical mindset with a focus on root cause analysis  
-- Continuously learning test automation tools and techniques  
 
 ---
 
 ## 🧪 QA Skills
 - Test case design & management  
-- Bug reporting (Jira, YouTrack, Test IT, Qase)  
+- Bug reporting (YouGile, Jira, YouTrack)  
 - API testing (Postman, SoapUI)  
 - Regression, Smoke & Exploratory testing  
 - Test documentation and reporting  
@@ -40,16 +40,15 @@ My engineering background helps me:
 ## 📁 QA Projects
 
 ### 🔹 OpenCart Testing Project
-- ✅ 30+ test cases  
-- 🐞 15 bug reports  
-- 📋 Checklists & test summaries  
-- 🔗 (add repository link)
+- ✅ test cases  
+- 🐞 bug reports  
+- 📋 Checklists  
 
 ### 🔹 API Testing (Postman)
 - CRUD operations  
 - Negative scenarios  
 - Environment variables & collections  
-- 🔗 (add Postman collection link)
+- 🔗 https://elenazahozaa428-739381.postman.co/workspace/92a9e964-8806-47e7-aee4-7b716eb0a9bd
 
 ---
 
@@ -81,8 +80,7 @@ My engineering background helps me:
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=4EAA25)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira&logoColor=0052CC)
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?logoColor=FF6C37)
-![Test IT](https://img.shields.io/badge/Test%20IT-black?logoColor=0072CE)
-![Qase](https://img.shields.io/badge/Qase-black?logoColor=1ABC9C)
+![YouGile](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDm5gQ7JGOZ9mVdzuH0Xyv6n8Vp0Iro0IcMX_68n87w&s=10)
 
 ---
 
@@ -97,15 +95,14 @@ Software Testing from Scratch: Theory + Practice (Basic) — *with distinction*
 ---
 
 ## 📚 Currently Learning
-- Java for Test Automation  
-- REST Assured  
-- Selenium  
+- Java for Test Automation 
+- English
 
 ---
 
 ## 🌍 Languages
-- English — B2 (Professional working proficiency)  
-- German — B1 (Elementary)  
+- English — B1
+- German — B1  
 - Russian — Native  
 
 ---
