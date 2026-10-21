@@ -17,7 +17,7 @@ My engineering background helps me:
 
 📌 Portfolio includes training QA work: test cases, bug reports, API testing  
 
-🔗 **[My Resume](https://drive.google.com/drive/folders/16dJFISdG6MS8LE3gMbv8LBw8Lw38w4o7?usp=drive_link)**
+🔗 **[My portfolio](https://drive.google.com/drive/folders/16dJFISdG6MS8LE3gMbv8LBw8Lw38w4o7?usp=drive_link)**
 
 ---
 
