@@ -7,33 +7,25 @@
 ## Alena | Software Engineer → QA Engineer 🔍
 
 QA Engineer transitioning from software development to QA.  
+
 My engineering background helps me:  
 - 🔍 quickly identify root causes of bugs  
 - ⚙️ analyze backend and API logic  
 - 🤝 collaborate effectively with developers  
 
-🎯 Focus: Web & API testing
 🚀 Next Milestone: Transitioning into test automation (Java)
 
 📌 Portfolio includes training QA work: test cases, bug reports, API testing  
-
 🔗 **[My portfolio](https://drive.google.com/drive/folders/16dJFISdG6MS8LE3gMbv8LBw8Lw38w4o7?usp=drive_link)**
 
 ---
 
-## 🚀 About Me
-- QA Engineer (Manual)  
-- Skilled in Java, Python, Web & API testing  
-- Strong analytical mindset with a focus on root cause analysis  
-
----
-
 ## 🧪 QA Skills
-- Test case design & management  
-- Bug reporting (YouGile, Jira, YouTrack)  
-- API testing (Postman, SoapUI)  
-- Regression, Smoke & Exploratory testing  
-- Test documentation and reporting  
+-Design test cases and checklists
+-Write clear and reproducible bug reports
+-Perform functional, smoke, regression, and exploratory testing
+-Test REST APIs using Postman
+-Analyze requirements and identify potential gaps and inconsistencies
 
 ---
 
@@ -47,15 +39,18 @@ My engineering background helps me:
 ### 🔹 API Testing (Postman)
 - CRUD operations  
 - Negative scenarios  
-- Environment variables & collections  
+- Environment variables & collections
+
+🔗 **[Explore my portfolio](https://drive.google.com/drive/folders/16dJFISdG6MS8LE3gMbv8LBw8Lw38w4o7?usp=drive_link)**
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-#### 🚀 Languages
+#### 🚀 Languages (beginner level)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)
+#### 🚀 Languages (inermediate level)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql&logoColor=336791)
 
 #### 🌐 Web & API Testing
@@ -94,7 +89,7 @@ Software Testing from Scratch: Theory + Practice (Basic) — *with distinction*
 
 ## 📚 Currently Learning
 - Java for Test Automation 
-- English
+- English for professional communication
 
 ---
 
