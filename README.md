@@ -80,7 +80,7 @@ My engineering background helps me:
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=4EAA25)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira&logoColor=0052CC)
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?logoColor=FF6C37)
-![YouGile](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDm5gQ7JGOZ9mVdzuH0Xyv6n8Vp0Iro0IcMX_68n87w&s=10)
+![YouGile](https://shields.io)
 
 ---
 
